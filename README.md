@@ -2,6 +2,8 @@
  
  ## opencv와 tensorflow를 활용한 시각장애인 통행 보조 프로그램
  
+ ## 사용환경
+ 
 -사용 언어 : python 3.7 (anaconda)
 
 -사용 프로그램 : jupyter notebook
