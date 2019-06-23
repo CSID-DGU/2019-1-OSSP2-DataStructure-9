@@ -6,7 +6,7 @@
  
  ### 개발환경
  
--개발 언어 : java
+-개발 언어 : Java
 
 -개발 프로그램 : Android studio
 
