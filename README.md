@@ -36,10 +36,8 @@
 
 ##실행화면
 
-<img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/defaultnumber.jpg?raw=true" width="200" height="450">
-
-
-
+<img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/defaultnumber.jpg?raw=true" width="200" height="450"><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/changenumber.jpg?raw=true" width="200" height="450"><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/calling.jpg?raw=true" width="200" height="450">
+<img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/moterbicylce.jpg?raw=true" width="200" height="450"><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/truck.jpg?raw=true" width="200" height="450"><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/car.jpg?raw=true" width="200" height="450">
 
 
 
