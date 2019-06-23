@@ -6,11 +6,11 @@
  
  ### 개발환경
  
--개발 언어 : Java
+- 개발 언어 : Java
 
--개발 프로그램 : Android studio
+- 개발 프로그램 : Android studio
 
--사용 API :  Tensorflow Object Detection API 
+- 사용 API :  Tensorflow Object Detection API 
 
 ### 팀원
   
