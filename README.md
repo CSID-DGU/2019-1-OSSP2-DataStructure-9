@@ -36,6 +36,9 @@
 
 ##실행화면
 
+<img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/defaultnumber.jpg?raw=true" width="200" height="450">
+
+
 
 
 
