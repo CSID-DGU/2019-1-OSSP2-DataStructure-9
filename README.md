@@ -55,8 +55,13 @@
 <더블 탭하여 전화>
 <center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/calling.jpg?raw=true" width="200" height="450">
 
-<어플리케이션을 통한 오토바이, 트럭, 자동차 인식>
-<img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/moterbicycle.jpg?raw=true" width="200" height="400"><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/truck.jpg?raw=true" width="200" height="400"><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/car.jpg?raw=true" width="200" height="400">
+<어플리케이션을 통한 오토바이 인식>
+<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/moterbicycle.jpg?raw=true" width="200" height="400">
+ 
+<어플리케이션을 통한 트럭 인식>
+<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/truck.jpg?raw=true" width="200" height="400">
+<어플리케이션을 통한 자동차 인식>
+<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/car.jpg?raw=true" width="200" height="400">
 
 ### 문의사항
 
