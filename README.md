@@ -29,10 +29,11 @@
 1. 프로젝트 설치가 아닌 apk파일을 통해 바로 어플로 실행시킬 경우
 
 <pre><code> https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/app-debug.apk </code></pre>
-- 여기서 cane.apk 를 Android 기기에 설치하고 실행시키면 된다.
+- 위의 링크에서 cane.apk 를 Android 기기에 설치하고 실행시키면 된다.
 
 2. 프로젝트 설치후 실행 하는 경우 
-<pre><code> https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/CANE%20app.zip </code></pre> 먼저 여기에서 CANE app.zip파일을 다운 받고 압축을 풀어주십시오.
+<pre><code> https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/CANE%20app.zip </code></pre> 
+- 위의 링크에서 CANE app.zip파일을 다운 받고 압축을 풀어주십시오.
 - Android Studio가 설치되있는 경우 Android Studio를 실행시켜서 Open an existing Android Studio project를 선택한뒤 압축을 푼 파일의 경로를 입력한 뒤 OK버튼을 눌러 파일을 실행시켜줍니다.
 - Android Studio에 파일이 옮겨 졌으면 Android기기를 컴퓨터와 연결하고 권한을 허용해준 뒤에 Android Studio 상단에 Play 버튼을 눌러줍니다.
 - Select Deployment Target이라는 창이 뜨면 연결된 핸드폰을 select하고 OK버튼을 눌러주면 빌드가 성공되고 어플이 휴대폰에 깔리게 됩니다.
