@@ -26,24 +26,23 @@
 -사용대상 : 사용 대상은 평소 보호자 또는 안내견의 도움 없이 케인을 사용하여 보행을 해야하는 시각장애인이다. 사용자는 케인(지팡이)를 수반한 상태에서 어플리케이션을 사용한다.
 
 ### 실행방법 
-- 1. 프로젝트 설치가 아닌 apk파일을 통해 바로 어플로 실행시킬 경우
+1. 프로젝트 설치가 아닌 apk파일을 통해 바로 어플로 실행시킬 경우
 
 <pre><code> https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/app-debug.apk </code></pre>
 - 여기서 cane.apk 를 Android 기기에 설치하고 실행시키면 된다.
 
-- 2. 프로젝트 설치후 실행 하는 경우 
+2. 프로젝트 설치후 실행 하는 경우 
 <pre><code> https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/CANE%20app.zip </code></pre> 먼저 여기에서 CANE app.zip파일을 다운 받고 압축을 풀어주십시오.
+- Android Studio가 설치되있는 경우 Android Studio를 실행시켜서 Open an existing Android Studio project를 선택한뒤 압축을 푼 파일의 경로를 입력한 뒤 OK버튼을 눌러 파일을 실행시켜줍니다.
+- Android Studio에 파일이 옮겨 졌으면 Android기기를 컴퓨터와 연결하고 권한을 허용해준 뒤에 Android Studio 상단에 Play 버튼을 눌러줍니다.
+- Select Deployment Target이라는 창이 뜨면 연결된 핸드폰을 select하고 OK버튼을 눌러주면 빌드가 성공되고 어플이 휴대폰에 깔리게 됩니다.
+- 휴대폰에 어플이 깔리면 CANE 어플을 실행시켜 초기의 번호를 입력해준 뒤 사용하면 됩니다.
 
--[선행 조건]
+[선행 조건]
 - 만약 Android Studio를 아직 설치하지 않은 경우 [Androidstudio](https://developer.android.com/studio/index.html) 의 지침에 따라 설치하십시오. (Android Studio 3.2 이상)
 
--[실행 시 주의사항]
-- 프로젝트를 build 하는 경우 기기의 카메라가 있어야지만 작동할 수 있으므로 Android 기기와 연결이 되어진 상태로 빌드되어야 합니다. 
-
-### 컴파일방법
-
-- clone or download
-<pre><code> $git https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9.git </code></pre>
+[실행 시 주의사항]
+- 프로젝트를 build 하는 경우 기기의 후면 카메라가 있어야지만 어플이 정상적으로 작동하므로 Android 기기와 연결이 되어진 상태로 빌드되어야 합니다. 
 
 ### 실행화면
 
