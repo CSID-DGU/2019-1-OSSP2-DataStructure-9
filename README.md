@@ -46,8 +46,7 @@
 - 프로젝트를 build 하는 경우 기기의 후면 카메라가 있어야지만 어플이 정상적으로 작동하므로 Android 기기와 연결이 되어진 상태로 빌드되어야 합니다. 
 
 ### 실행화면
-어플 실행시 default 전화번호
-<img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/defaultnumber.jpg?raw=true" width="200" height="450">
+어플 실행시 default 전화번호<img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/defaultnumber.jpg?raw=true" width="200" height="450">
 
 어플 사용자가 전화번호 설정
 <img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/changenumber.jpg?raw=true" width="200" height="450">
