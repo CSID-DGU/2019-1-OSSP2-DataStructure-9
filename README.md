@@ -47,21 +47,21 @@
 
 ### 실행화면
 <어플 실행시 default 전화번호> 
-<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/tree/master/configfolder/defaultnumber.jpg?raw=true" width="200" height="450">
+<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/configfolder/defaultnumber.jpg?raw=true" width="200" height="450">
 
 <어플 사용자가 전화번호 설정>
-<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/tree/master/configfolder/changenumber.jpg?raw=true" width="200" height="450">
+<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/configfolder/changenumber.jpg?raw=true" width="200" height="450">
 
 <더블 탭하여 전화>
-<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/tree/master/configfolder/calling.jpg?raw=true" width="200" height="450">
+<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/configfolder/calling.jpg?raw=true" width="200" height="450">
 
 <어플리케이션을 통한 오토바이 인식>
-<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/tree/master/configfolder/moterbicycle.jpg?raw=true" width="200" height="400">
+<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/configfolder/moterbicycle.jpg?raw=true" width="200" height="400">
  
 <어플리케이션을 통한 트럭 인식>
-<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/tree/master/configfolder/truck.jpg?raw=true" width="200" height="400">
+<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/configfolder/truck.jpg?raw=true" width="200" height="400">
 <어플리케이션을 통한 자동차 인식>
-<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/tree/master/configfolder/car.jpg?raw=true" width="200" height="400">
+<center><img src="https://github.com/CSID-DGU/2019-1-OSSP2-DataStructure-9/blob/master/configfolder/car.jpg?raw=true" width="200" height="400">
 
 ### 문의사항
 
